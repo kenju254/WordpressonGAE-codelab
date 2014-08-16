@@ -1,0 +1,19 @@
+#What is Google Cloud Platform ? 
+
+~~sub-section~~
+
+
+- Compute
+	- Compute Engine
+- Storage
+	- Cloud Storage
+	- Cloud Datastore
+	- Cloud SQL
+- Big Data
+	- Bigquery
+- Services
+	- Cloud Endpoints
+	- Translate API
+	- Prediction API
+- Product as a Service
+  	- Google App Engine
